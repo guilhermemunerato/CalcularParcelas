@@ -1,0 +1,11 @@
+C:\Users\etec\Desktop\GuilhermeProjeto\GuilhermeProjeto\bin\Debug\netcoreapp3.1\GuilhermeProjeto.exe
+C:\Users\etec\Desktop\GuilhermeProjeto\GuilhermeProjeto\bin\Debug\netcoreapp3.1\GuilhermeProjeto.deps.json
+C:\Users\etec\Desktop\GuilhermeProjeto\GuilhermeProjeto\bin\Debug\netcoreapp3.1\GuilhermeProjeto.runtimeconfig.json
+C:\Users\etec\Desktop\GuilhermeProjeto\GuilhermeProjeto\bin\Debug\netcoreapp3.1\GuilhermeProjeto.runtimeconfig.dev.json
+C:\Users\etec\Desktop\GuilhermeProjeto\GuilhermeProjeto\bin\Debug\netcoreapp3.1\GuilhermeProjeto.dll
+C:\Users\etec\Desktop\GuilhermeProjeto\GuilhermeProjeto\bin\Debug\netcoreapp3.1\GuilhermeProjeto.pdb
+C:\Users\etec\Desktop\GuilhermeProjeto\GuilhermeProjeto\obj\Debug\netcoreapp3.1\GuilhermeProjeto.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\GuilhermeProjeto\GuilhermeProjeto\obj\Debug\netcoreapp3.1\GuilhermeProjeto.AssemblyInfoInputs.cache
+C:\Users\etec\Desktop\GuilhermeProjeto\GuilhermeProjeto\obj\Debug\netcoreapp3.1\GuilhermeProjeto.AssemblyInfo.cs
+C:\Users\etec\Desktop\GuilhermeProjeto\GuilhermeProjeto\obj\Debug\netcoreapp3.1\GuilhermeProjeto.dll
+C:\Users\etec\Desktop\GuilhermeProjeto\GuilhermeProjeto\obj\Debug\netcoreapp3.1\GuilhermeProjeto.pdb
